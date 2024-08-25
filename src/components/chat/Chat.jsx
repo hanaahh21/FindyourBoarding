@@ -91,35 +91,35 @@ function Chat(){
                 </div>
                 <div className="centre">
                     <div className="chatMessage">
-                        <p>lorm eejjdbjd hdbdjcd</p>
+                        <p>How are you</p>
                         <span>1 hour ago</span>
                     </div>
                     <div className="chatMessage">
-                        <p>lorm eejjdbjd hdbdjcd</p>
+                        <p>How are you</p>
                         <span>1 hour ago</span>
                     </div>
                     <div className="chatMessage">
-                        <p>lorm eejjdbjd hdbdjcd</p>
+                        <p>How are you</p>
                         <span>1 hour ago</span>
                     </div>
                     <div className="chatMessage own">
-                        <p>lorm eejjdbjd hdbdjcd</p>
+                        <p>How are you</p>
                         <span>1 hour ago</span>
                     </div>
                     <div className="chatMessage">
-                        <p>lorm eejjdbjd hdbdjcd</p>
+                        <p>How are you</p>
                         <span>1 hour ago</span>
                     </div>
                     <div className="chatMessage">
-                        <p>lorm eejjdbjd hdbdjcd</p>
+                         <p>How are you</p>
                         <span>1 hour ago</span>
                     </div>
                     <div className="chatMessage own">
-                        <p>lorm eejjdbjd hdbdjcd</p>
+                        <p>How are you</p>
                         <span>1 hour ago</span>
                     </div>
                     <div className="chatMessage">
-                        <p>lorm eejjdbjd hdbdjcd</p>
+                        <p>How are you</p>
                         <span>1 hour ago</span>
                     </div>
                 </div>

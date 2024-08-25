@@ -74,16 +74,27 @@
             gap: 20px;
 
             .chatMessage{
-                width: 50px;
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+                // width: 50px;
 
                 &.own{
+                    flex: 1;
+                    display: flex;
                     align-self: flex-end;
                     text-align: right;
+
+                    span{
+                        align-self: flex-end;
+                    text-align: right;
+                    }
                 }
 
                 span{
                     font-size: 12px;
                     background-color: #bdc17e;
+                    width: fit-content;
                     padding: 2px;
                     border-radius: 5px;
                 }

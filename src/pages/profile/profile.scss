@@ -35,7 +35,8 @@
                 }
                 button{
                     padding: 12px 24px;
-                    background-color: #fcf543;
+                    background-color: rgb(238, 218, 224);
+                    border-radius: 5px;
                     cursor: pointer;
                     border: none;
 
@@ -61,7 +62,7 @@
     }
     .chatContainer{
         flex: 2;
-        background-color: #fcf543;
+        background-color: rgb(238, 218, 224);
         height: 100%;
         @include md {
             flex: none;
