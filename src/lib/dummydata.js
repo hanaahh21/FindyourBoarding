@@ -24,7 +24,7 @@ export const listData =[
     {
         id : 3,
         title: "Aluth Bodima",
-        img: "https://lh5.googleusercontent.com/p/AF1QipOdnUMBcRDB0P9QNBBdDxOG_MObSLfwPedKyOue=w408-h306-k-nog",
+        img: "https://lh5.googleusercontent.com/p/AF1QipON-y_rq6M1bjkLo2ih7son96Q3b8uHnsw0nWxe=w426-h240-k-no",
         bedRooms: 1,
         bathRooms: 1,
         price: 6500,
