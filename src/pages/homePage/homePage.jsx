@@ -7,27 +7,27 @@ function HomePage() {
         <div className="textContainer">
             <div className="wrapper">
                 <h1>
-                    Welcome to HANA ESTATE!
-                    Dreams meet Reality
+                    Find your nearest Boarding !
+                    In just a few clicks...
                 </h1>
                 
                 <p>
-                    We provide the best services for you to find your dream home.
-                    We have a variety of homes to choose from, and we are sure you will find the perfect one for you.
+                    We provide the best services for you to find your nearest boarding.
+                    We have a variety of boarding places to choose from, and we are sure you will find the perfect one for you.
                 </p>
                 <SearchBar/>
                 <div className="boxes">
                     <div className="box">
-                        <h1>16+</h1>
-                        <h2>Years of Experience</h2>   
+                        <h1>20+</h1>
+                        <h2>Renters</h2>   
                     </div>
                     <div className="box">
-                        <h1>200</h1>
-                        <h2>Award Gains</h2>   
+                        <h1>2 km</h1>
+                        <h2>Maximum Radius</h2>   
                     </div>
                     <div className="box">
-                        <h1>16+</h1>
-                        <h2>Years of Experience</h2>   
+                        <h1>50+</h1>
+                        <h2>Students</h2>   
                     </div>
                 </div>
             </div>

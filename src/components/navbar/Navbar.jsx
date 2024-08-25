@@ -9,13 +9,13 @@ function Navbar() {
         <nav>
             <div className="left">
                 <a href="/" className="logo">
-                    <img src="/logo.png" alt="" />
-                    <span>Hana Estate</span>
+                    <img src="/favicon.png" alt="" />
+                    <span>FindyourBoarding</span>
                     </a>
                     <a href="/">Home</a>
                     <a href="/about">About</a> 
                     <a href="/contact">Contact</a>
-                    <a href="/agents">Agents</a>
+                    <a href="/renters">Renters</a>
                     </div>
             <div className="right">
                 {user ? (<div className='user'>
@@ -43,7 +43,7 @@ function Navbar() {
                     <a href="/">Home</a>
                     <a href="/about">About</a> 
                     <a href="/contact">Contact</a>
-                    <a href="/agents">Agents</a>
+                    <a href="/renters">Renters</a>
                     <a href="/login">Login</a>
                     <a href="/register">Register</a>
     
